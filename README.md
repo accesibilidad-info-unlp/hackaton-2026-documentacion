@@ -77,7 +77,7 @@ Para facilitar la colaboración durante la hackatón se preparó una infraestruc
 
 ### Organización de equipos
 
-Se registraron 63 participantes y se preparó una estructura inicial de 10 equipos de trabajo.
+Se preparó una estructura inicial de 10 equipos de trabajo, dado que se inscribieron 63 participantes.
 
 ```text
 team-01 → hackaton-2026-proyecto-01 → flujo-trabajo-proyecto-01
